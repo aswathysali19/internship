@@ -7,7 +7,7 @@ public class sumNumbers {
     {
         int firstnum;
         int secnum;
-        int result***;
+        int result;
         BufferedReader br= new BufferedReader( new InputStreamReader(System.in));
         System.out.println("Enter two numbers:");
         firstnum=Integer.parseInt(br.readLine());
